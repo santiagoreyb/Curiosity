@@ -1,0 +1,4 @@
+roca 13 cm -2 -2
+duna 0.5 km 0 0
+crater 0.1 m 4 6
+roca 43 dm -5 4

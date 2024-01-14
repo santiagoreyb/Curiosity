@@ -1,0 +1,4 @@
+0 avanzar 3 cm
+0 girar 90 gr
+0 avanzar 2 cm
+1 foto Roca Roca_marsiana

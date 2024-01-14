@@ -1,0 +1,6 @@
+girar -90 grd
+avanzar 10 m
+girar 90 grd
+avanzar 10 m
+fotografiar colinas
+fotografiar colinas ’sistema de montañas’

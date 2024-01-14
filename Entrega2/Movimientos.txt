@@ -1,0 +1,5 @@
+avanzar 4 m
+girar 90 grd
+avanzar 10 m
+girar -180 grd
+avanzar 20 m

@@ -1,0 +1,5 @@
+1 foto Duna 16_horas
+0 girar -90 gr
+0 avanzar 10 m
+0 girar 90 gr
+0 avanzar 10 m

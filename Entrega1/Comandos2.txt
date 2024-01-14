@@ -1,0 +1,4 @@
+0 girar 270 gr
+0 avanzar 20 m
+0 girar 90 gr
+0 avanzar 10 m

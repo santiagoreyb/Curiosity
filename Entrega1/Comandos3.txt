@@ -1,0 +1,4 @@
+0 girar 90 gr
+0 avanzar 10 cm
+0 girar 90 gr
+0 avanzar 10 m
